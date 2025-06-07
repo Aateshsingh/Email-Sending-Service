@@ -18,6 +18,5 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@vercel/node": "^1.11.0"
   }
 }
